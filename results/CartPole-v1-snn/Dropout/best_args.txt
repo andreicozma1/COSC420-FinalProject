@@ -1,0 +1,1 @@
+Namespace(device='cuda', dropout=0.25, environment='CartPole-v1', episodes=250, gamma=0.99, h1=16, h2=32, log_interval=5, lr=0.0125, model='super', policy='snn', quiet=True, render=False, save_interval=10, scale=75, seed=-1, sqlen=20, subdir='Dropout')
